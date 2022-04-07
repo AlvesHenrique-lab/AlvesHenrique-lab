@@ -6,7 +6,7 @@
 <hr>
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvesHenrique-lab"/>
+  <img style="height:100% width: 100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvesHenrique-lab"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesHenrique-lab"/>
 </div>
 <hr>
