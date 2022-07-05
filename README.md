@@ -1,12 +1,14 @@
 
 <div>
-  <img class="imgContainer" style="height:100% width: 100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvesHenrique-lab"/>
-  <img class="imgContainer" style="height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesHenrique-lab"/>
+  <img class="imgContainer" style="height:100% width: 100%"  src="https://github-readme-stats.vercel.app/api?username=AlvesHenrique-lab"/>
+  <img class="imgContainer" style="height=100% widht: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesHenrique-lab"/>
 </div>
+                                                                                                                                        
 <style>
   .imgContainer{
   display: inline-block; }
 </style>
+                                                                                                                                        
 <hr>
 <div class="linguagens_programacao">
   <h3>Linguagens de programação:</h3>
