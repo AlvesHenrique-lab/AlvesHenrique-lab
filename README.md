@@ -4,11 +4,6 @@
   <img class="imgContainer" height= '100%' widht: '100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesHenrique-lab"/>
 </div>
                                                                                                                                         
-<style>
-  .imgContainer{
-  display: inline-block; }
-</style>
-                                                                                                                                        
 <hr>
 <div class="linguagens_programacao">
   <h3>Linguagens de programação:</h3>
