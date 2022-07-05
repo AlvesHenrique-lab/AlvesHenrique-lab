@@ -1,8 +1,11 @@
 
-<div style:"display: inline-block;"">
+<div class="Id1">
   <img style="height:100% width: 100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvesHenrique-lab"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesHenrique-lab"/>
 </div>
+<style>
+  display: float;
+</style>
 <hr>
 <div class="linguagens_programacao">
   <h3>Linguagens de programação:</h3>
