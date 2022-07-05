@@ -1,7 +1,7 @@
 
-<div>
-  <img class="imgContainer" style="height:100% width: 100%"  src="https://github-readme-stats.vercel.app/api?username=AlvesHenrique-lab"/>
-  <img class="imgContainer" style="height=100% widht: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesHenrique-lab"/>
+<div >
+  <img class="imgContainer" height: '100%' width: '100%' src="https://github-readme-stats.vercel.app/api?username=AlvesHenrique-lab"/>
+  <img class="imgContainer" height= '100%' widht: '100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesHenrique-lab"/>
 </div>
                                                                                                                                         
 <style>
