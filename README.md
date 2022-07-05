@@ -20,7 +20,3 @@
   <i class="devicon-blender-original"><img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" /></i>
   <i class="devicon-wordpress-plain"><img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></i>
 </div>
-
-<div>
-  <h3>Redes sociais em breve</h3>
-</div>
